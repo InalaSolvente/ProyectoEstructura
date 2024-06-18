@@ -139,7 +139,8 @@ int verificar_usuario(const char *nombre, const char *correo,
   fclose(file);
 
   // Comparar los datos
-  if (strcmp(file_nombre, nombre) == 0 && strcmp(file_correo, correo) == 0 && strcmp(file_contraseña, contraseña) == 0) {
+  if (strcmp(file_nombre, nombre) == 0 && strcmp(file_correo, correo) == 0 &&
+      strcmp(file_contraseña, contraseña) == 0) {
     printf("Datos verificados correctamente. ID: %d\n", file_id);
     return file_id;
   } else {
