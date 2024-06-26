@@ -38,7 +38,7 @@ int main() {
     loadUsers(userMap, "users.txt");
 
     // Crear e inicializar el mapa hash para nombres de caballos
-    HashMap* horseMap = createHashMap(100);
+    HashMap* horseMap = createHashMap(200);
     loadHorseNames(horseMap, "namesHorses.txt");
 
     horse horses[H_NUM];

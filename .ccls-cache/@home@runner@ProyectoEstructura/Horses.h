@@ -15,4 +15,4 @@ const char* nameHorse(HashMap* horseMap);
 void printHorses(horse horses[H_NUM]);
 bool loadHorseNames(HashMap* horseMap, const char* filename);
 
-#endif
+#endif 

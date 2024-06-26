@@ -1,6 +1,4 @@
 Tormenta China
-Relámpago Veloz
-Espíritu Libre
 Viento del Norte
 Cometa de Fuego
 Rayo Nocturno
@@ -10,7 +8,6 @@ Trueno Salvaje
 Nebulosa Dorada
 Sombra del Alba
 Fantasma Gris
-Corazón Valiente
 Eclipse Total
 Sol Naciente
 Galaxia Lejana
@@ -21,7 +18,6 @@ Centinela Fiel
 Roca Firme
 Tempestad Real
 Aurora Boreal
-Trébol de Suerte
 Huracán Dorado
 Héroe Legendario
 Fuego Eterno
@@ -30,7 +26,6 @@ Caballero Oscuro
 Relincho Salvaje
 Bruma Mística
 Guerrero Ágil
-Fantasía Celestial
 Escarcha Pura
 Espejismo Dorado
 Sable Plateado
@@ -43,7 +38,6 @@ Arcángel de Luz
 Campeón Supremo
 Desierto Rojo
 Halcón Negro
-Dragón de Fuego
 Gaviota Blanca
 Invencible Rey
 Joya del Sol
@@ -67,14 +61,9 @@ Fantasma Blanco
 Gladiador Noble
 Horizonte Lejano
 Invierno Blanco
-Joyero Mágico
-Káiser Poderoso
 Leyenda Dorada
 Mar de Estrellas
 Noche Estrellada
-Océano Azul
-Pegaso Místico
-Quimera Dorada
 Rayo de Luna
 Sol de Medianoche
 Titán Invencible
@@ -90,7 +79,6 @@ Destino Veloz
 Espectro Nocturno
 Flama Viva
 Guardián Leal
-Héroe de Leyenda
 Ícaro Dorado
 Júpiter Radiante
 Kraken Azul
