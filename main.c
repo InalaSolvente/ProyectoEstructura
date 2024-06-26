@@ -296,7 +296,7 @@ double watch(horse horses[H_NUM]) {
                 printf("| |\n");
             } else {
                 for (j = 0; j < TRACK_LENGTH - 1; j++) printf(" ");
-                printf("*| |\n");
+                printf(" |*|\n");
                 strcpy(winner, horses[i].name);
             }
             WHITE;

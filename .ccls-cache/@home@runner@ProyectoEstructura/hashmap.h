@@ -1,34 +1,30 @@
-//
-//  HashMap.h
-//  TablaHashLab
-//
-//  Created by Matias Barrientos on 11-08-18.
-//  Copyright © 2018 Matias Barrientos. All rights reserved.
-//
+#ifndef HASHMAP_H
+#define HASHMAP_H
 
-#ifndef HashMap_h
-#define HashMap_h
+#include <stdbool.h>
 
+typedef struct {
+    char username[40];
+    char password[40];
+    double balance;
+} User;
 
-typedef struct HashMap HashMap;
+typedef struct Node {
+    User user;
+    struct Node* next;
+} Node;
 
-typedef struct Pair {
-     char * key;
-     void * value;
-} Pair;
+typedef struct {
+    Node** buckets;
+    int capacity;
+} HashMap;
 
-HashMap * createMap(long capacity);
+HashMap* createHashMap(int capacity);
+void freeHashMap(HashMap* map);
+bool addUser(HashMap* map, const char* username, const char* password);
+bool loadUsers(HashMap* map, const char* filename);
+bool saveUsers(HashMap* map, const char* filename);
+User* getUserByUsername(HashMap* map, const char* username);
+void updateUserBalance(HashMap* map, const char* username, double balance);
 
-void insertMap(HashMap * table, char * key, void * value);
-
-void eraseMap(HashMap * table, char * key);
-
-Pair * searchMap(HashMap * table, char * key);
-
-Pair * firstMap(HashMap * table);
-
-Pair * nextMap(HashMap * table);
-
-void enlarge(HashMap * map);
-
-#endif /* HashMap_h */
+#endif
