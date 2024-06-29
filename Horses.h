@@ -8,11 +8,9 @@
 
 #define H_NUM 5
 
-void makeHorses(horse horses[H_NUM], HashMap* horseMap);
-void printHorses(horse horses[H_NUM]);
-bool loadHorseNames(HashMap* horseMap, const char* filename);
-
-// FunciÃ³n auxiliar para encontrar un nombre no usado
-const char* findUnusedName(const char** names, bool* used, int size);
+void makeHorses(horse horses[H_NUM], HashMap* horseMap);// Función principal para crear los caballos
+void printHorses(horse horses[H_NUM]);// Función para imprimir la información de los caballos
+bool loadHorseNames(HashMap* horseMap, const char* filename);// Función para cargar nombres de caballos desde un archivo
+const char* findUnusedName(const char** names, bool* used, int size);// Función para encontrar un nombre de caballo no utilizado
 
 #endif

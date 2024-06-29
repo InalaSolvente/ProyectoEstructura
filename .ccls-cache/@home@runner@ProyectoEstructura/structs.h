@@ -8,10 +8,10 @@
 
 typedef struct horse
 {
-    char name[100];  // Changed to accommodate full names
-    int winChance;
-    double amountBet;
-    int distance;
+  char name[100];
+  int winChance;
+  double amountBet;
+  int distance;
 } horse;
 
 #endif

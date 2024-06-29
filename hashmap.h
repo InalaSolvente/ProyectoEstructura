@@ -4,19 +4,19 @@
 #include <stdbool.h>
 
 typedef struct {
-    char username[40];
-    char password[40];
-    double balance;
+  char username[40];
+  char password[40];
+  double balance;
 } User;
 
 typedef struct Node {
-    User user;
-    struct Node* next;
+  User user;
+  struct Node* next;
 } Node;
 
 typedef struct {
-    Node** buckets;
-    int capacity;
+  Node** buckets;
+  int capacity;
 } HashMap;
 
 HashMap* createHashMap(int capacity);
