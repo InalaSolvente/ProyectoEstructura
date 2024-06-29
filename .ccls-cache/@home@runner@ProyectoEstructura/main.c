@@ -77,6 +77,7 @@ int main() {
         }
 
         if (selection == 4) {
+            limpiarPantalla();
             saveUser(balance, username, userMap);
             freeHashMap(userMap);
             freeHashMap(horseMap);
@@ -110,6 +111,8 @@ double login(HashMap* map, char* username) {
     char password[MAX];
     char choice;
 
+    limpiarPantalla();
+    puts(" ~*~*~*~*~*~*~ Bienvenido a las carreras! ~*~*~*~*~*~*~ ");
     puts("¿Ya tiene una cuenta? (s/n)");
     scanf(" %c", &choice);
 

@@ -1,88 +1,71 @@
-Tormenta China
-Viento del Norte
-Cometa de Fuego
-Rayo Nocturno
-Brisa Marina
-Estrella Fugaz
-Trueno Salvaje
-Nebulosa Dorada
-Sombra del Alba
-Fantasma Gris
-Eclipse Total
-Sol Naciente
 Galaxia Lejana
-Centella Azul
-Cazador Nocturno
-Diamante Negro
-Centinela Fiel
-Roca Firme
-Tempestad Real
-Aurora Boreal
-Huracán Dorado
-Héroe Legendario
-Fuego Eterno
-Llamarada Roja
-Caballero Oscuro
-Relincho Salvaje
-Bruma Mística
-Guerrero Ágil
-Escarcha Pura
-Espejismo Dorado
-Sable Plateado
-Meteoro Rápido
-Trueno Azul
-Estrella Polar
-Diamante Brillante
-Sombra Veloz
-Arcángel de Luz
-Campeón Supremo
-Desierto Rojo
-Halcón Negro
-Gaviota Blanca
-Invencible Rey
-Joya del Sol
-Leyenda Viva
-Nube Blanca
-Ondas del Mar
-Perla Negra
-Relámpago Rojo
-Sable de Plata
-Tempestad Azul
-Universo Infinito
-Viento del Oeste
-Yegua Dorada
 Zeus Veloz
-Aventurero Intrépido
+Viento del Oeste
+Sol Naciente
+Lince Salvaje
+Caballero Oscuro
+Sable Plateado
+Invencible Rey
+Escarcha Pura
+Maravilla Negra
+Nube Blanca
+Aurora Boreal
+Nebulosa Dorada
+Estrella Fugaz
+Yegua Plateada
+Roca Firme
+Trueno Azul
+Sombra del Alba
+Sable de Plata
 Bengala Brillante
-Cazador de Sueños
-Diamante de Luz
-Escudo Real
+Fuego Eterno
+Leyenda Viva
+Centella Azul
+Aventurero Intrépido
 Fantasma Blanco
 Gladiador Noble
-Horizonte Lejano
-Invierno Blanco
-Leyenda Dorada
-Mar de Estrellas
-Noche Estrellada
+Joya del Sol
+Kraken Azul
+Bravo Corredor
+Trueno Salvaje
+Sombra Veloz
+Diamante Brillante
+Brisa Marina
+Viento del Norte
+Eclipse Total
+Centinela Fiel
+Perla Negra
+Escudo Real
+Viento Celestial
+Universo Infinito
+Yegua Dorada
+Espectro Nocturno
 Rayo de Luna
 Sol de Medianoche
-Titán Invencible
-Único Guerrero
-Viento Celestial
-Xilófono Vibrante
-Yegua Plateada
-Zafiro Brillante
-Atila Feroz
-Bravo Corredor
+Estrella Polar
+Desierto Rojo
+Ondas del Mar
+Invierno Blanco
 Cazador Dorado
-Destino Veloz
-Espectro Nocturno
+Leyenda Dorada
+Tormenta China
+Espejismo Dorado
+Atila Feroz
+Tempestad Azul
 Flama Viva
-Guardián Leal
-Ícaro Dorado
-Júpiter Radiante
-Kraken Azul
-Lince Salvaje
-Maravilla Negra
+Mar de Estrellas
+Tempestad Real
+Destino Veloz
+Cazador Nocturno
+Noche Estrellada
+Horizonte Lejano
+Relincho Salvaje
+Llamarada Roja
+Rayo Nocturno
+Cometa de Fuego
+Fantasma Gris
+Diamante de Luz
 Noble Corcel
-Ópalo Brillante
+Diamante Negro
+Gaviota Blanca
+Zafiro Brillante
